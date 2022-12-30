@@ -1,0 +1,26 @@
+/* Messages - Start */
+.messages__item {
+    margin: 10px;
+    padding: 5px;
+    width: 450px;
+    background: f0f0f0;
+}
+.message__publisher {
+    color: #999999;
+    border-bottom: 1px solid #999999;
+    padding: 5px;
+}
+.message__content {
+    background: #fafafa;
+    padding: 5px;
+}
+.message__date {
+    color: #999999;
+    border-top: 1px solid #999999;
+    padding: 5px;
+}
+.user__name {
+    color: #444;
+    font-weight: bold;
+}
+/* Messages - End */
