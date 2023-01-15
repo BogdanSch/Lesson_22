@@ -1,5 +1,5 @@
 <?php
-include_once "DB-Files/dbconnect.php";
+require_once "db-settings/dbconnect.php";
 if (!isset($_SESSION)) {
     session_start();
 }
